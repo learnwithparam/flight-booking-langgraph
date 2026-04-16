@@ -36,3 +36,14 @@ Thumbs.db
 # Logs
 *.log
 logs/
+
+# Standardized additions (appended by project setup)
+.env.*.local
+node_modules/
+.next/
+dist/
+build/
+.coverage
+htmlcov/
+*.egg-info/
+*~
